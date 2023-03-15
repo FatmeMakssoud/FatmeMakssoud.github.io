@@ -13,9 +13,3 @@ Toutes les routes demandées dans le fichier "routes.md" ont été bien configur
 Concernant le fichier de config.ini: l'apprenant l'a bien crée et configuré.
 
 Fonctionnellement, à la page d'accueil, on voit qu'une page d'erreur (404) qui s'affiche avec deux onglets sur la barre de navigation (Skoule qui nous ramène à la page localhost et Se connecter qui est non fonctionnel).
-
-
-
-
-
-
