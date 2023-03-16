@@ -16,11 +16,11 @@ Tu as bien réalisé la connexion entre PHP et le système de gestion des donné
 Tu as bien suivi la structure MVC en séparant les parties : Modèles, Vues et Contrôleurs.
 Concernant la partie controller, tous les fichiers sont présents sauf que la plupart des méthodes n'ont pas été implémentées, notamment, teacherUpdateGet, studentDelete, etc..
 
-Par rapport aux vues, tu n'as pas crée la vue des utilisateurs (dossier : app/Views). Egalement, le  modèle pour les users n'a pas été ajouté (app/Models/AppUser.php).
+Par rapport aux vues, tu n'as pas crée la vue des utilisateurs (dossier : app/Views). Egalement, le  modèle pour les users n'a pas été ajouté (app/Models/AppUser.php)..
 
 Seulement quatre routes demandées dans le fichier "routes.md" ont été bien configurées dans le fichier public/index.php. 
 
-Concernant le fichier de config.ini: tu l'as bien crée et configuré.
+Concernant le fichier de config.ini : tu l'as bien crée et configuré.
 
 #### Résultat et affichage 
 
