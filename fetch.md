@@ -17,7 +17,7 @@ La méthode fetch est utilisée pour extraire une ligne de données à la fois d
 
 $pdo = new PDO('mysql:host=localhost;dbname=mydatabase', 'username', 'password'); 
 
- #### Exécution de la requête pour récupérer tous les eleves
+ .#### Exécution de la requête pour récupérer tous les eleves
  
  $query = $pdo->query('SELECT * FROM student');
 
