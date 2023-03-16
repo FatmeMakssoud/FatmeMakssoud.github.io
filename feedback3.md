@@ -9,7 +9,7 @@ Ce rendu consiste d'un retour détaillé du tuteur qui a corrigé et évalué to
 
 #### Import Base de données
 
-Pour l'imporation de la base, tu as bien réussi la connexion entre PHP et Mysqladmin ainsi que la création de la base de données Skoule; Les données des tables ont été bien importées.
+Pour l'imporation de la base, tu as bien réussi la connexion entre PHP et le SGBD Mysqladmin ainsi que la création de la base de données Skoule; Les données des tables ont été bien importées.
 
 #### Architecture MVC (Modèle - Vue - Contrôleur)
 
