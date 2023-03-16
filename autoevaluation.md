@@ -9,5 +9,5 @@
 | J'ai su adapter la complexité de mes retours/corrections en fonction des apprenant.e.s  | 👍 | ... | // Je pense oui, les apprenants ont presque le même niveau  
 | J'ai su proposer des pistes d'améliorations aux apprenant.e.s en fonction du niveau perçu (autres exemples, reformulations et explications sans donner la solution finale si possible/nécessaire, autres façons de faire, liens vers la documentation, etc.) | 👍 | ... | // Propositions des idées de solutions avec des conseils de la suite du travail
 | J'ai su proposer une explication cohérente avec un exemple concret sur la notion de fetch | 👍 | ... | // J'ai définie cette méthode avec un exemple de code concret à intégrer et exécuter dans une vue "student" 
-| J'ai su appréhender le MCD d'un.e apprenant.e et proposer un retour complet | 👍 | ... | // Explication de la méthode, Correction du modèle reçu avec des outils de modéliasation de ce modèle 
+| J'ai su appréhender le MCD d'un.e apprenant.e et proposer un retour complet | 👍 | ... | // Explication de la méthode, Correction du modèle reçu avec des outils de modéliasation de ce modèle. 
 
