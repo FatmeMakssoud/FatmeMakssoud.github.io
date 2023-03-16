@@ -32,7 +32,7 @@ Fonctionnellement, sur la page d'accueil, il y a des erreurs fatales qui s'affic
 
 #### Commentaires & Conseils
 
-Je te propsose de relire tout le code et essayer de trouver une solution pour cette erreur fatal (création du contrôleur "ErrorController") etc.., en cas d'échec, adresses-toi à ton formateur pour lui demander de l'aide.
+Je te propsose de relire tout le code et essayer de trouver une solution pour cette erreur fatal (création du contrôleur "ErrorController") etc..., en cas d'échec, adresses-toi à ton formateur pour lui demander de l'aide.
 
 
     
