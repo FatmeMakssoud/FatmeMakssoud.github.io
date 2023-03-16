@@ -19,7 +19,7 @@ Fonctionnellement, à la page d'accueil du site, on voit qu'une page d'erreur (4
 (Skoule qui nous ramène à la page localhost et Se connecter qui est non fonctionnel).
 Je lui conseille de réviser son code surtout les vues (affichage), la communication entre ces dernières et les contrôleurs ainsi que la partie authentifiaction.
 
-🟡 Des Choses à Travailler 
+🟡 Des Choses à Travailler. 
 
 #### Apprenant 2
 
@@ -28,7 +28,7 @@ L'architecture MVC a été bien compris de sa part, il doit encore ajouté quelq
 Fonctionnellement, toute la page (vues) s'affiche juste la partie d'authentification et de droits d'accès n'ont pas été faits.
 Je lui conseille de terminer le travail rendu et de prendre en compte les points abordés dans le feedback.
 
-🟡 Des Choses à Travailler 
+🟡 Des Choses à Travailler. 
 
 #### Apprenant 3
 
@@ -37,7 +37,7 @@ Concenrnant MVC, cet apprenant a compris le concept des trois parties de cette a
 Fonctionnellement, sur la page d'accueil, il y a qu'une page d'erreur (404) qui s'affiche. Malgré les configurations des cinq routes, les vues ne sont pas affichées sur la page de navigation.
 Conseil : Révision du code surtout les vues (rendu), la communication entre ces dernières et les contrôleurs ainsi que la partie authentifiaction.
 
-🟡 Des Choses à Travailler 
+🟡 Des Choses à Travailler. 
 
 #### Apprenant 4
 
@@ -46,6 +46,6 @@ Il a réussi la connexion entre php et mysqladmin, a crée la structure de la ba
 Concernant la MVC, plusieurs contrôleurs n'ont pas été crées, il y a des erreurs de syntaxes dans son code, etc...
 Je lui propsose de relire tout le code et essayer de trouver une solution pour cette erreur fatal (création du contrôleur "ErrorController") etc.., en cas d'échec, je lui demandé de s'adresser à son formateur pour lui demander de l'aide sinon il est loin de la validation de son parcours
 
- 🟠 Insuffisant pour Valider
+ 🟠 Insuffisant pour Valider.
 
 
