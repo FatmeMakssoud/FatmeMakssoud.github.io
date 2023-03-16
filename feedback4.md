@@ -1,18 +1,38 @@
-#### Feedback4 (Apprenant4)
+
+### Livrable n°1 : Feedback4 (Apprenant4)
+
 #### Dossier : bapteme_php 
 
-L'apprenant a bien suivi la structure MVC en séparant les parties : Modèles, Vues et Contrôleurs.
+Ce fichier consiste d'un retour détaillé du tuteur qui a corrigé et évalué ton travail, il s'agit d'une évaluation des compétences et des attendus.
 
-Concernant la partie controller, le fichier "CoreController" n'a pas été crée.
+#### Correction du rendu 
 
-Par rapport aux vues, l'apprenant a crée cinq vues : appuser, main, error, student et teacher.
+#### Import Base de données
 
-L'apprenant a crée tous les modèles avec (app/Models/AppUser.php).
+Tu as bien réussi la connexion entre PHP et le système de gestion des données Mysqladmin ainsi que la création de la base de données Skoule; tu as bien importé les données des tables.
+
+#### Architecture MVC (Modèle - Vue - Contrôleur)
+
+Tu a bien suivi la structure MVC en séparant les répertoires : Modèles, Vues et Contrôleurs. 
+
+Concernant la partie controller, les fichiers "CoreController, ErrorController, MainController" n'ont pas été crées, même dans ceux crées, il existe des erreurs de syntaxe.
+
+Par rapport aux vues, tu as crée cinq vues : appuser, main, error, student et teacher. Autres vues définies à terminer.
+
+Concernant la partie Modèles, tu a crée tous les modèles avec (app/Models/AppUser.php). Dans le modèle AppUser, les fonctions publiques find() et update() sont vides (à terminer).
+Concernant le modèle CoreModel, les méthodes getStatus() et setStatus() n'existent pas. 
 
 La plupart des routes du fichier "routes.md" ont été configurées dans le fichier public/index.php. 
 
 Concernant le fichier de config.ini: l'apprenant l'a bien crée et configuré.
 
-Fonctionnellement, sur la page d'accueil, il y a des erreurs fatales qui s'affichent:
-ErrorController n'existe pas, etc..
+#### Résultat et affichage 
+
+Fonctionnellement, sur la page d'accueil, il y a des erreurs fatales qui s'affichent: ErrorController n'existe pas, etc..
+
+#### Commentaires & Conseils
+
+Je te propsose de relire tout le code et essayer de trouver une solution pour cette erreur fatal (création du contrôleur "ErrorController") etc.., en cas d'échec, adresses-toi à ton formateur pour lui demander de l'aide.
+
+
     
