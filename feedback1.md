@@ -15,7 +15,7 @@ Tu as bien réussi la connexion entre PHP et Mysqladmin ainsi que la création d
 
 Tu as bien suivi la structure MVC ainsi que les organisations des fichiers dans cette architecture en créant tous les contrôleurs notamment 
 CoreController.php, StudentController.php, etc. Cependant, ton code est incomplet, il te manque plusieurs méthodes propres à chaque contrôleur, par exemple, 
-dans UserController : méthode qui s'occupe des données envoyées en POST par le formulaire de modification, celle qui s'occupe de la mise à jour d'un user ainsi de sa suppression n'existent pas, etc..
+dans UserController : méthode qui s'occupe des données envoyées en POST par le formulaire de modification, celle qui s'occupe de la mise à jour d'un user ainsi de sa suppression n'existent pas, etc...
 
 Tu as aussi crée toutes les vues demandées qui sont présentes dans le dossier app/Views mais elles sont incomplètes par exemple, tu n'as pas crée le fichier "add-update.tpl.php" dans la vue "appuser" qui te permet d'ajouter et de modifier un utilisateur.
 
